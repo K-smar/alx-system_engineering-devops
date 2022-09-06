@@ -1,2 +1,2 @@
 #!/bin/bash
-cat File_1
+echo "\""(Ôo)'
