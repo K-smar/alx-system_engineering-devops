@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$ (cut -c1 | tr-d 'ln')"
+echo "$ ( cut -c1 | tr -d 'ln')"
